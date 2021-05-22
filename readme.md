@@ -1,3 +1,3 @@
 # Binder用
 
-https://mybinder.org/v2/gh/MEGURU12/share_jupyter/5987699e0fea998e9005b5c57f073b16629be83a
+https://hub-binder.mybinder.ovh/user/meguru12-share_jupyter-3ydo6gff/notebooks/pandas%E3%83%A1%E3%83%A2.ipynb
